@@ -10,9 +10,9 @@ This is a simple repo that allows on to quickly setup a laravel project served u
 
 The following docker images are used in this project
 
-[PHP 7.2](https://hub.docker.com/_/php?tab=tags&page=1&name=7.2-fpm-alpine)
-[nginx](https://hub.docker.com/_/nginx?tab=tags&page=1&name=stable-alpine)
-[MySQL 5.7.22](https://hub.docker.com/_/mysql?tab=tags&page=1&name=5.7.22)
+[PHP 7.2](https://hub.docker.com/_/php?tab=tags&page=1&name=7.2-fpm-alpine)  
+[nginx](https://hub.docker.com/_/nginx?tab=tags&page=1&name=stable-alpine)  
+[MySQL 5.7.22](https://hub.docker.com/_/mysql?tab=tags&page=1&name=5.7.22)  
 [Laravel v6.4](https://laravel.com/)
 
 ##### Please note
